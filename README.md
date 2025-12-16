@@ -255,7 +255,6 @@ SELECT
 FROM hourly_sales
 GROUP BY shift;
 
--- End of Project
 ```
 
 
